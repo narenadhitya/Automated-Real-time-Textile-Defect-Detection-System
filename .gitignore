@@ -1,0 +1,20 @@
+# Virtual environments
+cv_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data and models (large files)
+tilda_structured/
+models/
+
+# IDE files
+.vscode/
+.idea/
+
+log.txt
+saved_images/
+textile_models/
